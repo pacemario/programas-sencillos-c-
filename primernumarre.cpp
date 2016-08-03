@@ -27,5 +27,6 @@ int main(){
 		if (arre[i]==arre[0])
 			cont++;
 	}
+	printf("El primer elemento se encuentra %d", cont+1);
 
 }
